@@ -1,3 +1,6 @@
 module.exports = {
-  base: '/'
+  title: 'Hello zyf',
+  description: 'Just playing around',
+  base: '/',
+  port: 8009
 }
